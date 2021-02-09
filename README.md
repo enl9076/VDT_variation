@@ -6,22 +6,22 @@
  
  ### Version 1 -- the Nano
  Hardware:
- 1. Arduino Nano
- 2. Force Sensitive Resistor
- 3. 10k ohm resistor
+ * Arduino Nano
+ * Force Sensitive Resistor
+ * 10k ohm resistor
  
  Software:
- 1. Arduino IDE
+ * Arduino IDE
  
  ### Version 2 -- the upgrade
  Hardware:
- 1. NodeMCU
- 2. Force Sensitive Resistor
- 3. 10k ohm resistor
- 4. RGB LED
+ * NodeMCU
+ * Force Sensitive Resistor
+ * 10k ohm resistor
+ * RGB LED
  
  Software:
- 1. Arduino IDE
- 2. Jupyter Notebook using Micropython kernel
+ * Arduino IDE
+ * Jupyter Notebook using Micropython kernel
  
  
