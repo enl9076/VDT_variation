@@ -11,17 +11,17 @@
  3. 10k ohm resistor
  
  Software:
- *Arduino IDE
+ 1. Arduino IDE
  
  ### Version 2 -- the upgrade
  Hardware:
- *NodeMCU
- *Force Sensitive Resistor
- *10k ohm resistor
- *RGB LED
+ 1. NodeMCU
+ 2. Force Sensitive Resistor
+ 3. 10k ohm resistor
+ 4. RGB LED
  
  Software:
- *Arduino IDE
- *Jupyter Notebook using Micropython kernel
+ 1. Arduino IDE
+ 2. Jupyter Notebook using Micropython kernel
  
  
